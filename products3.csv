@@ -1,0 +1,4 @@
+id,firstName,lastName,house,street,city,state,zip,prod,tag,newCol,prodCat
+10001,Micheal,Adkins,19,Ofuca Avenue,Kopewevi,PA,77774,Misc,GREEN,0,Misc
+10002,Rachel,Parks,19,Itmer Manor,Wejitcan,AR,64675,Desktop,YELLOW,10,Electronics
+10003,Julian,Olson,47,Pewih Boulevard,Lithejev,NH,27953,Desktop,BLUE,1000,Electronics
